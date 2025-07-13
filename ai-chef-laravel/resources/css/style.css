@@ -1,0 +1,21 @@
+
+    .btn-group-wrap {
+      flex-wrap: wrap;
+    }
+
+    .btn-group-wrap .btn {
+      margin: 4px;
+    }
+
+    .badge span {
+      margin-left: 6px;
+      color: red;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    #aiResponse {
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+  
